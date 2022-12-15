@@ -7,12 +7,12 @@ import 'firebase/compat/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD-gToUEeR4Y5E2l3L8_k_qmWms4lIBE3U",
-  authDomain: "busticketingsystem-53c45.firebaseapp.com",
-  projectId: "busticketingsystem-53c45",
-  storageBucket: "busticketingsystem-53c45.appspot.com",
-  messagingSenderId: "439298272309",
-  appId: "1:439298272309:web:9c35f6571d3eb378e5157c"
+  apiKey: "AIzaSyAFgWjMXoHC4UXurgmntwSEO4B77lRbeYk",
+  authDomain: "warna-pos.firebaseapp.com",
+  projectId: "warna-pos",
+  storageBucket: "warna-pos.appspot.com",
+  messagingSenderId: "32873436096",
+  appId: "1:32873436096:web:e63e022c7ad82773d3ee25"
 };
 
 // Initialize Firebase
